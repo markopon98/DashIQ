@@ -1,6 +1,6 @@
 # DashIQ
 
-## Short Project Description
+## Project Description
 **DashIQ** is a **Sales & Revenue Analytics Dashboard** that transforms raw business data into clear, interactive insights.  
 It helps analyze **sales performance, revenue trends, customer behavior, and key business metrics** through a user-friendly dashboard interface.
 
