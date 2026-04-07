@@ -9,6 +9,7 @@ This project is a **portfolio-ready demonstration** of skills in **data cleaning
 ---
 
 ## Tools / Tech Stack
+- **ClickUp** – track project management, customize workspace, organize tasks, and set goals.
 - **Python** – main programming language for data processing and analytics  
 - **Pandas** – data cleaning, transformation, and analysis  
 - **SQLite** – lightweight relational database for structured data storage  
