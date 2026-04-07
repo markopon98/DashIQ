@@ -6,6 +6,7 @@ It helps analyze **sales performance, revenue trends, customer behavior, and key
 
 This project is a **portfolio-ready demonstration** of skills in **data cleaning, analysis, dashboard development, and deployment**, showcasing an end-to-end analytics workflow.
 
+This also serves as an exercise to practice my documentation during development
 ---
 
 ## Tools / Tech Stack
