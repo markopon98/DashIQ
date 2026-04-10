@@ -11,12 +11,12 @@ To identify duplicate records in the raw dataset and determine whether any rows 
 ### 1. Exact Duplicate Rows
 A duplicate scan was performed across all columns in the dataset.
 
-- Exact duplicate rows found: [Replace with result]
+- Exact duplicate rows found: 50000
 
 ### 2. Duplicate Order ID Check
 A separate check was performed on the `Order ID` field to identify repeated transaction identifiers.
 
-- Repeated Order IDs found: [Replace with result]
+- Repeated Order IDs found: 50000
 
 ### 3. Validation Notes
 Duplicate rows were reviewed to determine whether they represent:

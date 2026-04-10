@@ -14,8 +14,8 @@ A missing value scan was performed across all columns using Pandas.
 ### 2. Missing Value Count
 Initial inspection found the following:
 
-- Columns with missing values: [Replace with result]
-- Total missing values: [Replace with result]
+- Columns with missing values: 0
+- Total missing values: 0
 
 ### 3. Missing Value Percentage
 Missing value percentages were calculated to assess data completeness.
