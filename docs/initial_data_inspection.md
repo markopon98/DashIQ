@@ -12,7 +12,7 @@ To understand the structure and quality of the raw sales dataset before cleaning
 The dataset was opened in Python using Pandas.
 
 ### 2. Row and Column Count
-- Rows: 1,000,000
+- Rows: 100,000
 - Columns: 14
 
 ### 3. Sample Records Preview

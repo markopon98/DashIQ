@@ -37,7 +37,5 @@ The following formatting checks were performed:
 - capitalization consistency
 - duplicate labels caused by formatting differences
 
-**Result:** [Replace with result]
-
 ## Initial Conclusion
 The category-related fields are [clean / mostly clean / require standardization] and are suitable for dashboard preparation after standardization if needed.
